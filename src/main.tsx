@@ -13,5 +13,3 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     </ThemeProvider>
   </React.StrictMode>
 );
-
-createRoot(document.getElementById("root")!).render(<App />);

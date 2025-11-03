@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Phone, Mail, Instagram, Facebook } from "lucide-react";
+import { Phone, Instagram, Facebook } from "lucide-react";
 import logo from "@/assets/logo.png";
 
 const Footer = () => {
@@ -68,15 +68,7 @@ const Footer = () => {
                   (11) 98222-9902
                 </a>
               </li>
-              <li>
-                <a
-                  href="mailto:contato@cycozinhaafetiva.com.br"
-                  className="flex items-center text-sm text-muted-foreground hover:text-primary smooth-transition"
-                >
-                  <Mail className="h-4 w-4 mr-2" />
-                  cycozinhaafetiva@gmail.com
-                </a>
-              </li>
+             
             </ul>
             <div className="flex space-x-4 mt-4">
               <a
@@ -85,7 +77,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary smooth-transition"
                 aria-label="Instagram"
-              >
+              > 
                 <Instagram className="h-5 w-5" />
               </a>
               <a

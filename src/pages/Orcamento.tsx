@@ -99,7 +99,7 @@ ${formData.message || "Sem mensagem adicional"}
                 Solicite seu Orçamento
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground">
-                Preencha o formulário abaixo e entraremos em contato em breve
+                Preencha o formulário <strong>abaixo</strong> e entraremos em contato em breve
               </p>
             </div>
           </div>

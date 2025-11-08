@@ -12,7 +12,7 @@ const Servicos = () => {
   const services = [
     {
       title: "Chef em Casa",
-      subtitle: "Leve a experiência de alta gastronomia para o conforto do seu lar. Nossa chef prepara um menu personalizado especialmente para você e sua família.",
+      subtitle: "Leve a experiência de alta gastronomia para o conforto do seu lar. Nossa chef prepara as refeições especialmente para você e sua família.",
       description:
         "Agora isso é possível com o nosso novo serviço Chef em Casa!",
       icon: ChefHat,

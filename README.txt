@@ -1,8 +1,8 @@
-# Cy Cozinha Afetiva 
+Cy Cozinha Afetiva 
 
 Desenvolvido para o Projeto de Desenvolvimento Web.
 
-## Integrantes do grupo:
+Integrantes do grupo:
 - Caio Pereira Batista - RA 2225200089
 - Irene Brasilina de Freitas - RA 2225204820
 - João Victor Gonzaga - RA 2225200202
@@ -13,6 +13,9 @@ Desenvolvido para o Projeto de Desenvolvimento Web.
 - Ygor Souza Santos - RA 2225201836
 
 
-## Descrição:
+Descrição:
 Site desenvolvido em React + Vite + Tailwind CSS, apresentando os serviços da chef Cy e auxiliando na organização das vendas.
-Hospedado na Hostinger: [https://cycozinhaafetiva.com.br](https://cycozinhaafetiva.com.br)
+Hospedado na Hostinger: https://cycozinhaafetiva.com.br
+Link do Video: 
+
+

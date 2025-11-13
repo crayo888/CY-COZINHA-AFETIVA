@@ -16,6 +16,7 @@ Integrantes do grupo:
 Descrição:
 Site desenvolvido em React + Vite + Tailwind CSS, apresentando os serviços da chef Cy e auxiliando na organização das vendas.
 Hospedado na Hostinger: https://cycozinhaafetiva.com.br
-Link do Video: 
+Link do Video: https://youtu.be/nAdnK7OesgE
+
 
 
